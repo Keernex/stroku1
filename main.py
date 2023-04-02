@@ -4,6 +4,4 @@ e = 0
 for i in q:
   if w == i:
     e += 1
-  else:
-    print("none")
 print(e)
